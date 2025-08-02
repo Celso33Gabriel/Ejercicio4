@@ -20,11 +20,6 @@ Comentarios en el Codigo
 Justificación:
 Se agregaron comentarios en todas las clases del proyecto indicando las funciones principales y su funcionamiento dentro de este
 
-
-
-
-
-
 Mejora #[5]
 Ubicación: Clase Producto.Java
 Descripción del cambio:
@@ -41,15 +36,9 @@ Para garantizar la integridad de los datos al momento de registrar productos y r
 Justificación:
 Además, en las interacciones con el usuario (por ejemplo, al agregar productos a un pedido), se añadió la verificación de que las cantidades ingresadas sean mayores a cero, impidiendo operaciones con valores no válidos que podrían afectar el flujo lógico del negocio.
 
-
-
-
-
-
-
 Mejora #[4]
 Ubicación: Clase Main.java
 Descripción del cambio: Se agregó una funcion que manda a llamar a las funciones de mostrar inventario, pedidos e ingresos, tambien se modificó el switch para acceder a ese resumen
 Se creo una función que manda a llamar la función de inventario y pedidos
 
-Justificación:
+Justificación: Era necesario mejorar la experiencia de usuario implementando resumenes de ventas e inventario
