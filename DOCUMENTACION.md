@@ -49,7 +49,7 @@ Además, en las interacciones con el usuario (por ejemplo, al agregar productos 
 
 Mejora #[4]
 Ubicación: Clase Main.java
-Descripción del cambio:
+Descripción del cambio: Se agregó una funcion que manda a llamar a las funciones de mostrar inventario, pedidos e ingresos, tambien se modificó el switch para acceder a ese resumen
 Se creo una función que manda a llamar la función de inventario y pedidos
 
 Justificación:
